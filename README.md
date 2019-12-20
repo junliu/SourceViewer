@@ -9,7 +9,7 @@ simply run `python SourceView.py`
 
 ## the GUI
 
-The GUI of the application is showing bellow.
+The GUI of the application in a typical Linux environment is showing bellow.
 
 ### the sky coverage plot
 
@@ -48,8 +48,8 @@ see [`settings`](#settings) and [`operations`](#operations) bellow
 ## operations
 
 - `Load Source`: open a dialog to choose a catalog that contains the observation sample
-- `Output`: save the sources listed in the queue to an observation script, which is by default named `tmp.run``
-- ``Upload`: upload the observation script to a remote controling computer
+- `Output`: save the sources listed in the queue to an observation script, which is by default named `tmp.run`
+- `Upload`: upload the observation script to a remote controling computer
 - `Refresh`: refresh the sky coverage plot
 - `Move Up`: move up the selected source(s) in the queue
 - `Move Down`: move down the selected source(s) in the queue
