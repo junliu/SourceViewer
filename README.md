@@ -14,7 +14,7 @@ The GUI of the application is showing bellow.
 ### the sky coverage plot
 
 - `blue vertical lines`: the slewing limits of the antenna in azimuth
-- `red lines`: the horizon of the mountains (or more precisely, the elevation below which the signal strength decreases by 10dB due to shielding by the mountains/trees)
+- `red line`: the horizon of the mountains (or more precisely, the elevation below which the signal strength decreases by 10dB due to shielding by the mountains/trees)
 - `green points`: the position of the loaded sources at starting UT
 - `red points`: the position of the loaded sources at ending UT
 - `yellow line`: the oberving sequence of the sources in the queue, `big yellow point` indicates the starting source. The expected total obereving time for this sequence is shown in the terminal. 
