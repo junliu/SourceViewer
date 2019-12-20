@@ -21,7 +21,7 @@ The GUI of the application is showing bellow.
 
 ### the button and setup panels
 
-see [`settings`](##settings) and [`operations`](##operations) bellow
+see [`settings`](#settings) and [`operations`](#operations) bellow
 
 ### the source lister
 
