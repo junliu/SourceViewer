@@ -11,11 +11,27 @@ simply run `python SourceView.py`
 
 The GUI of the application is showing bellow.
 
+### the sky coverage plot
+
 - `blue vertical lines`: the slewing limits of the antenna in azimuth
-- `red lines`: the elevation below which the signal strength decreases by 10dB due to shielding by the mountains
+- `red lines`: the horizon of the mountains (or more precisely, the elevation below which the signal strength decreases by 10dB due to shielding by the mountains/trees)
 - `green points`: the position of the loaded sources at starting UT
 - `red points`: the position of the loaded sources at ending UT
 - `yellow line`: the oberving sequence of the sources in the queue, `big yellow point` indicates the starting source. The expected total obereving time for this sequence is shown in the terminal. 
+
+### the button and setup panels
+
+see `setting` and `operations` bellow
+
+### the source lister
+
+`Available`: list of the sources above the horizon of the mountains
+
+`Invisible`: list of the sources below the horizon of the mountains
+
+`Queue`: list of the sources that are to be observed
+
+
 
 ![SourceViewer](demo/SourceViewer.png)
 
